@@ -1,0 +1,164 @@
+
+.depicter-revert .depicter-312-element-31{
+	background-color:transparent;
+}
+.depicter-312-element-31 .depicter-bullet-item{
+	background-color:rgba(0, 0, 0, 0.5);
+	border-radius:5px 5px 5px 5px ;
+	margin-right:5px;
+	width:9px;
+	height:9px;
+}
+.depicter-312-element-31 .depicter-bullet-item.depicter-bullet-active{
+	background-color:#000000;
+}
+.depicter-revert .depicter-312-element-32{
+	background-color:transparent;
+}
+.depicter-312-element-32 .depicter-arrow-icon{
+	fill:#000000;
+}
+.depicter-revert .depicter-312-section-816 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-312-section-865 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-312-section-806 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-312-section-789 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-312-element-378{
+	font-size:20px;
+	text-align:center;
+	color:#FFFFFF;
+	font-family:"Myriad";
+	font-weight:;
+	background-color:#E62C2B;
+	border-radius:6px;
+}
+.depicter-revert .depicter-312-section-373 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-312-section-759 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-312-section-648 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-312-section-539 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-312-section-820 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+
+/***** Tablet *****/
+@media screen and (max-width: 1024px){
+
+.depicter-revert .depicter-312-element-31{
+	background-color:transparent;
+}
+.depicter-312-element-31 .depicter-bullet-item{
+	background-color:rgba(0, 0, 0, 0.5);
+}
+.depicter-312-element-31 .depicter-bullet-item.depicter-bullet-active{
+	background-color:#000000;
+}
+.depicter-revert .depicter-312-element-32{
+	background-color:transparent;
+}
+.depicter-312-element-32 .depicter-arrow-icon{
+	fill:#000000;
+}
+.depicter-revert .depicter-312-section-816 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-312-section-865 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-312-section-806 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-312-section-789 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-312-element-378{
+	font-size:16px;
+	text-align:center;
+	color:#FFFFFF;
+	font-family:"Myriad";
+	font-weight:;
+	background-color:#E62C2B;
+}
+.depicter-revert .depicter-312-section-373 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-312-section-759 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-312-section-539 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-312-section-820 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+
+}
+/***** Mobile *****/
+@media screen and (max-width: 767px){
+
+.depicter-revert .depicter-312-element-31{
+	background-color:transparent;
+}
+.depicter-312-element-31 .depicter-bullet-item{
+	background-color:rgba(0, 0, 0, 0.5);
+}
+.depicter-312-element-31 .depicter-bullet-item.depicter-bullet-active{
+	background-color:#000000;
+}
+.depicter-revert .depicter-312-element-32{
+	background-color:transparent;
+}
+.depicter-312-element-32 .depicter-arrow-icon{
+	fill:#000000;
+}
+.depicter-revert .depicter-312-section-816 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-312-section-865 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-312-section-806 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-312-section-789 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-312-element-378{
+	font-size:16px;
+	text-align:center;
+	color:#FFFFFF;
+	font-family:"Myriad";
+	font-weight:;
+	background-color:#E62C2B;
+}
+.depicter-revert .depicter-312-section-373 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-312-section-759 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-312-section-648 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-312-section-539 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-312-section-820 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+
+}
